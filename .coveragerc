@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = connect_ml_api
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    connect_ml_api/__main__.py
